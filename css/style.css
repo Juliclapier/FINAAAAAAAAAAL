@@ -1,0 +1,51 @@
+.home-detalle {
+  padding-top: 200px; 
+color:}
+  .home-detalle p {
+    font-size: 2em;
+    font-weight: bold; }
+  .home-detalle img {
+    border: 1px solid gray; }
+
+.home {
+  padding-top: 55px; }
+  .home a {
+    text-decoration: none;
+    color: black; }
+
+.card-footer {
+  background-color: grey;
+  border-top: black; }
+
+.card-margin {
+  margin-bottom: 5px; }
+  .card-margin .card {
+    height: 430px; }
+
+.card-body h5 {
+  font-size: 0.9em;
+  font-family: Arial, Helvetica, sans-serif; }
+
+.card-body p {
+  font-size: 1.3em;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  line-height: 10px; }
+
+.carrito {
+  padding-top: 15px; }
+
+.caja-detalle-producto {
+  margin-bottom: 10px; }
+  .caja-detalle-producto .caja-detalle-producto-interior {
+    padding: 20px;
+    border: 1px solid gray; }
+
+.footer {
+  margin-top: 8em;
+  background-color: green;
+  padding-top: 0.8em; }
+  .footer p {
+    color: black;
+    font-size: 0.8em; }

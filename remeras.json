@@ -1,0 +1,42 @@
+[{"nombre": "Reme Alf!", 
+  "precio": 580,
+  "detalle": "Color gris gastado",
+  "imagen": "img/remeAlf.png",
+  "talle":"M"
+},
+{
+  "nombre": "Reme Bazooka", 
+  "precio": 600,
+  "detalle": "Color blanca",
+  "imagen": "img/remeBazooka.png",
+  "talle":"S"
+},
+{
+"nombre": "Reme Britney", 
+  "precio": 630,
+  "detalle": "Color Amarillo",
+  "imagen": "img/remeBritney.png",
+  "talle":"L"
+},
+{
+"nombre": "Reme Jorgito!", 
+  "precio": 680,
+  "detalle": "Color Negro",
+  "imagen": "img/remeJorgito.png",
+  "talle":"s"
+},
+{"nombre": "Reme Capitan!", 
+  "precio": 720,
+  "detalle": "Color Blanco",
+  "imagen": "img/remeCapitan.png",
+  "talle":"M"
+},
+{"nombre": "Buzos!", 
+  "precio": 1959,
+  "detalle": "Color rojo",
+  "imagen": "img/remeBuzos.png",
+  "talle":"L"
+}
+
+
+]
